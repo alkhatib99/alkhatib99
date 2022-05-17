@@ -23,7 +23,7 @@ h1,h2,h3,h4{
 
 <div>
 
-<img src="./PersonalImages/12501-removebg-preview.png" width="200px" id="leftImage">
+<img style="background-color:black;"src="./PersonalImages/12501-removebg-preview.png" width="200px" id="leftImage">
 
 </div>
 <h1>overview</h1> 
