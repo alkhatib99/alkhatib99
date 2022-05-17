@@ -1,34 +1,15 @@
 # Abedalqader Alkhatib
 
-<style>
-*{
-    background-color:black;
-}
-    div.img#rightImage:hover{
-color:red;
+!["my photo"](./PersonalImages/12501-removebg-preview.png)
 
-    }
-img
-{
-    background-color:black;
-}
-h1,h2,h3,h4{
-    color:#F9966B ;
-}
 
-    img:hover{
-        transform:scale(1.3);
-    }
-</style>
+<br>
 
-<div>
-
-<img style="background-color:black;"src="./PersonalImages/12501-removebg-preview.png" width="200px" id="leftImage">
-
-</div>
 <h1>overview</h1> 
 
- <span>full-stack web developer & Mobile Developer on fluutter Platform.
+ <span>Full-stack web developer & Mobile Developer on flutter Platform.
+  Recently gradutes in `10/2021`,
+
   Atended a python developer course at @ASAC.
 </span>
 
@@ -36,15 +17,19 @@ h1,h2,h3,h4{
 
 <br>
 
->>Note: It's the perfect way to showcase your skils
+<h3><span style="color:red">  It's the perfect way to showcase your skils   </span></h3>
+
+
 ---
->>
+
 
 !['Hard work'](https://media-exp1.licdn.com/dms/image/C4D22AQEMa5XzInjC2g/feedshare-shrink_2048_1536/0/1646236485723?e=1655942400&v=beta&t=avklr_M5kULJ1-lSPe0lsbKVXMNboZawizLcfXCHasM)
 
 
 
 [**MyResume** ](./Abedalqader_Cv%20(1).pdf)
+
+[**My LinkedIn** ](https://www.linkedin.com/in/abdulqader-alkhatib-850453216/)
 
 <br>
 <br>
