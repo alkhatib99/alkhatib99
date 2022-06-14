@@ -1,10 +1,9 @@
 # Abedalqader Alkhatib
 
-!["my photo"](./PersonalImages/12501-removebg-preview.png)
+<img src="./PersonalImages/12501-removebg-preview.png" alt="my photo" width="150px" height="200px"/>
 
 
 <br>
-
 <h1>overview</h1> 
 
  <span>Full-stack web developer & Mobile Developer on flutter Platform.
