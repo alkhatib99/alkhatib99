@@ -9,7 +9,11 @@
  <span>Full-stack web developer & Mobile Developer on flutter Platform.
   Recently gradutes in `10/2021`,
 
-  Atended a python developer course at @ASAC.
+  Atended a python developer course at @ASAC. til JUN/2022
+  
+  Works At ZAD Company (ZADFORYOURLIFE). from JUN/2022 - Present
+  
+  
 </span>
 
 ---
