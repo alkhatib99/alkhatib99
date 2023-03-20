@@ -53,4 +53,4 @@
 Graduates from Al-Ahliyya Amman University.
 in Summer Term 2020/2021.
 
-<img alt='Hard work' src="https://media-exp1.licdn.com/dms/image/C4D22AQEMa5XzInjC2g/feedshare-shrink_2048_1536/0/1646236485723?e=1655942400&v=beta&t=avklr_M5kULJ1-lSPe0lsbKVXMNboZawizLcfXCHasM" width="709px" height= "1540px"/>>
+<img alt='Hard work' src="https://media-exp1.licdn.com/dms/image/C4D22AQEMa5XzInjC2g/feedshare-shrink_2048_1536/0/1646236485723?e=1655942400&v=beta&t=avklr_M5kULJ1-lSPe0lsbKVXMNboZawizLcfXCHasM" width="709px" height= "1540px"/>
