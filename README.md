@@ -4,8 +4,6 @@
 ---
 📍 Based in Jordan | 🌐 Building across Flutter, Python, React, and TypeScript
 
-I'm particularly interested in integrating Web3 into modern apps using Flutter, experimenting with Solidity, and bringing decentralized solutions to life through intuitive user interfaces.
-
 --- 
 
 
