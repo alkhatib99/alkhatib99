@@ -1,21 +1,86 @@
-# Abedalqader Alkhatib
+# 👨‍💻 Abedalqader Alkhatib (alkhatib99)
 
-<img src="./PersonalImages/12501-removebg-preview.png" alt="my photo" width="110px" height="150px"/>
+**Flutter Developer | Python Bot Engineer | Full-Stack Web3 Enthusiast**
+---
+📍 Based in Jordan | 🌐 Building across Flutter, Python, React, and TypeScript
 
-<br>
+--- 
 
 
-## 👨‍💻 About Me
+## 🧠 Bio
 
-Hi, I'm [@alkhatib99](https://github.com/alkhatib99) — a top-ranked Computer Science graduate, Flutter developer, and Web3 enthusiast with a passion for building smart, scalable, and innovative software solutions.
-
-I graduated with honors, ranked first in my class, and quickly turned my academic excellence into real-world impact. My journey started with tutoring students and supporting graduation projects, then evolved into working with a variety of clients as a freelancer. Over the years, I’ve built full-stack mobile applications, automated systems with Python, and explored the cutting edge of blockchain and AI technologies.
-
-I'm particularly interested in integrating Web3 into modern apps using Flutter, experimenting with Solidity, and bringing decentralized solutions to life through intuitive user interfaces.
+I'm a passionate developer focused on building scalable apps and tools using **Flutter**, **Python**, and modern **JavaScript/TypeScript frameworks**.  
+I specialize in:
+- 🛠 Building automation bots and decentralized apps  
+- 🧪 Rapid prototyping and cross-platform development  
+- 🔐 Secure integration of Web3 technologies into real-world apps
 
 ---
 
-### 📂 Featured Repositories
+## 🚀 About Me
+
+Hi, I'm [@alkhatib99](https://github.com/alkhatib99) — a top-ranked Computer Science graduate,with a strong passion for building smart, scalable, and innovative software solutions.
+
+I graduated with honors, ranked first in my class, and quickly turned my academic excellence into real-world impact.
+
+ My journey started with tutoring students and supporting graduation projects, then evolved into working with a variety of clients as a freelancer. Over the years, I’ve built full-stack mobile applications, automated systems with Python, and explored the cutting edge of blockchain and AI technologies.
+
+---
+
+## 🧰 Skills
+
+### 🛠️ Expertise
+
+- **Languages**: Dart, Python, Solidity, Web3
+
+- **Frameworks**: Flutter, React, TypeScript
+
+- **Databases**: MongoDB, PostgreSQL, Firebase
+
+- **Cloud**: AWS, Google Cloud, Azure
+
+- **DevOps**: Docker, Kubernetes, Jenkins
+- **Testing**: Jest, Pytest, Flutter Test
+- **Security**: OWASP, Secure Coding Practices
+
+### 📈 Tools & Technologies
+  - **Version Control**: Git, GitHub, GitLab
+  - **UI/UX**: Figma, Adobe XD, Sketch
+  - **IDE**: Visual Studio Code, Android Studio, Xcode
+  - **Operating Systems**: Windows, Linux, macOS
+  - **Frameworks**: Flutter, React, Next.js, Python, GetX, Web3Dart, REST APIs
+  - **Mobile**: Flutter
+  - **Web**: HTML, CSS, JavaScript
+  - **Blockchain**: Solidity, Web3, Ethereum, Binance Smart Chain, Polygon
+  - **Machine Learning**: TensorFlow, PyTorch, Scikit-learn, Keras
+  - **Data Science**: Pandas, NumPy, Matplotlib, Seaborn
+
+### 🎯 Additional Skills
+
+- **Communication**: Strong written and verbal communication skills
+- **Problem-solving**: Ability to identify and solve complex problems
+- **Teamwork**: Ability to work effectively in a team environment
+- **Adaptability**: Ability to quickly learn and adapt to new technologies and environments
+- **Time management**: Ability to prioritize tasks and manage time effectively
+- **Problem-solving**: Ability to identify and solve complex problems.
+  
+---
+
+## 🌟 Project Highlights
+
+### 🖼️ [NFT Minter DApp](https://github.com/alkhatib99/nft-minter)
+A decentralized minting platform with IPFS support and wallet integration using Flutter + Web3Dart.
+
+### ⛽ [Gas Price Tracker DApp](https://github.com/alkhatib99/gas-price-tracker)
+A real-time Ethereum gas monitor with historical charts, alerts, and transaction estimation.
+
+### 🤖 [X Auto Poster Bot](https://github.com/alkhatib99/x_auto_post)
+Post tweets, retweets, and interact with X (Twitter) using a GUI-powered multi-account bot.
+
+---
+
+
+## 📂 Featured Repositories
 
 * 🔧 [Iron E-commerce App](https://github.com/alkhatib99/iron-ecommerce-app) – A complete e-commerce solution with Firebase integration, built using Flutter and GetX.
 * 📱 [Flutter Web3 Wallet](https://github.com/alkhatib99/flutter-web3-wallet) – A sleek, testnet-ready Web3 wallet UI built in Flutter using web3dart.
@@ -28,6 +93,11 @@ I'm particularly interested in integrating Web3 into modern apps using Flutter, 
 ---
 
 👋 Thanks for reading!
+
+> 🔁 I’m always learning, shipping, and building something new in the Web3 space.
+
+---
+
 
 ## 🔗 Connect with me
 
@@ -45,55 +115,13 @@ I'm particularly interested in integrating Web3 into modern apps using Flutter, 
 
 ### 👨‍💻 Developer Platforms
 
+* 🌐 GitHub: [@alkhatib99](https://github.com/alkhatib99)
+* 🎮 Discord: [alkhatib99](https://discord.com/users/alkhatib99#0001)
 * ✍️ Medium: [@alkhatib99](https://medium.com/@alkhatib99)
 * 👨‍💻 Dev.to: [alkhatib99](https://dev.to/alkhatib99)
 * 👾 Reddit: [Odd_Door_6561](https://reddit.com/user/Odd_Door_6561)
 
-<!-- ---
-
-⭐ If you found any note helpful, feel free to star the repo or fork it to start your own journey.
-
-<h1>overview</h1>
-
- `<span>`Full-stack web developer & Mobile Developer on flutter Platform.
-  Recently gradutes in `10/2021`,
-
-  Atended a python developer course at @ASAC. til JUN/2022
-
-  Works At ZAD Company (ZADFORYOURLIFE). from JUN/2022 - Present
-
-</span>
-
----
-
-<br>
-
-<h3><span style="color:red">  It's the perfect way to showcase your skils   </span></h3>
 
 ---
 
 [**MyResume** ](./Abedalqader_Cv%20(1).pdf)
-
-[**My LinkedIn** ](https://www.linkedin.com/in/abdulqader-alkhatib-850453216/)
-
-<br>
-<br>
----
-
---- -->
-
-## Courses
-
-- **Python Core**
-  
-  * <img src="./Python-Core-Certificate-sololearn.png" alt="my photo" width="100px" height="100px"/>
-  * [The Link](https://www.sololearn.com/certificates/course/en/25119367/1073/landscape/png)
-- **JavaScript-From-Zero**
-  *  <img src="./javascript-from-zero.jpg" alt="my photo" width="100px" height="100px"/>
-  * [The Link](https://www.udemy.com/certificate/UC-e41f4336-f6b8-481b-bff4-abcecf1cf7b8/)
-  
-
-- **Java Beginner to advance**
-  * <img src="./java-begginer-to-advanced.jpg" alt="my photo" width="100px" height="100px"/>
-
-  * [The Link](https://www.udemy.com/certificate/UC-9c1af715-d9b0-4bd8-8fc9-f1a011e1dde7/)
